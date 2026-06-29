@@ -8,8 +8,8 @@
   "server": {
     "ip": "Daowish.aternos.me",
     "port": 48842,
-    "version": "26.1.2",
-    "try-creative": false
+    "version": "",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
